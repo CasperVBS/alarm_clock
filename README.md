@@ -11,6 +11,9 @@
 ## 3d-printed case 
 <img width="837" height="691" alt="image" src="https://github.com/user-attachments/assets/4303c349-8392-4963-9daa-6c88e9ac1947" />
 
+## firmware
+There is a very simple Arduino script with a time function that reads the current time, which is synchronized with the internet over Wi-Fi. There is also a timer mode, which you can use for things like baking. There is also a stopwatch mode, but I can't guarantee that it works properly. The only thing you need to do is add your wifi info. 
+
 
 ## BOM
 - 1x Seeed XIAO ESP32C3
